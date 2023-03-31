@@ -1,4 +1,5 @@
-# Hi 👋, I'm Mohammed Sharooque ![sharooque7](https://komarev.com/ghpvc/?username=sharooque7&label=Profile%20views&color=0e75b6&style=flat)
+<h1 align='center' id="hi-i-m-mohammed-sharooque-sharooque7-https-komarev-com-ghpvc-username-sharooque7-label-profile-20views-color-0e75b6-style-flat-">Hi 👋, I&#39;m Mohammed Sharooque <img src="https://komarev.com/ghpvc/?username=sharooque7&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="sharooque7"></h1>
+
 
 ###### Full-stack engineer with passion for learning new technologies and working with teams to create user-friendly web applications.Over 2 plus years of experience in developing scalable websites/applications using wide range of front-end and back-end technologies like HTML, CSS, JavaScript, C#, etc. Eager to develop skills in a fast-paced environment and contribute to the success of a team.Looking further to enhance HTML ,CSS,JavaScript skills as the future full stack developer.
 
