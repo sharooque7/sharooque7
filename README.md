@@ -5,7 +5,7 @@
 
 * * *
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="center" style="display:flex;justify-content:space-between">
 <a href="https://codepen.io/https://codepen.io/sharooque7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/sharooque7" height="30" width="40" /></a>
 <a href="https://twitter.com/https://twitter.com/mosharooque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mosharooque" height="30" width="40" /></a>
