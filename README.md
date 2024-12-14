@@ -4,15 +4,28 @@
 
 ---
 
-<!-- <h3 align="left">Connect with me:</h3> -->
-<p align="center" style="display:flex;justify-content:space-between">
-<a href="https://codepen.io/sharooque7" target="_blank"><img align="center" title="codepen" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/sharooque7" height="30" width="40" /></a>
-<a href="https://twitter.com/mosharooque" target="_blank"><img align="center" title="twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mosharooque" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohammed-sharooque-20305518b/" target="_blank"><img align="center" title="linkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-sharooque-20305518b/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10872378/sharooque" target="_blank"><img title="stackoverflow" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/10872378/sharooque" height="30" width="40" /></a>
-<a href="https://sharooque.hashnode.dev" target="_blank"><img title="hashnode" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://sharooque.hashnode.dev¯" height="30" width="40" /></a>
-<a href="https://leetcode.com/sharooque7/" target="_blank"><img title="leetcode" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sharooque7/" height="30" width="40" /></a>
-</p>
+### About Me 🔭
+
+- I am currently working on a data pipeline project that integrates real-time streaming with Kafka KStream and Flink, as well as batch processing using PySpark. The project focuses on efficient stream processing and real-time data insights for Conditional Monitoring System(CMS). [Stream](https://github.com/sharooque7/StreamProcessing)
+- My roles and responsibilities include leading efforts designing innovative solutions. From brainstorming ideas to implementing actionable strategies, we take ownership of every stage, ensuring alignment with business goals and driving the successful implementation of data-driven initiatives.
+- 🌱 Improving my understanding and knowledge on **System Design and Patterns** with practicals.
+- 💬 Ask me about **Java, MERN, PostgreSql, Kafka, AWS, System Desing, DSA, Distributed Systems, IOT**
+
+### Blogs 📝
+
+- I regularly write articles on [Hashnode](https://sharooque.hashnode.dev/)
+- [Setup and Integrating DocumentDB with JAVA](https://sharooque.hashnode.dev/integrating-amazon-documentdb-with-java-spring-boot-and-amazon-lambda)
+- [Event Loop and Internals](https://sharooque.hashnode.dev/event-loop-in-node-js-and-its-internals)
+
+### Profles
+
+- <a href="https://sharooque.hashnode.dev" target="_blank"><img title="hashnode" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://sharooque.hashnode.dev¯" height="30" width="40" /></a> Hashnode
+
+- <a href="https://leetcode.com/sharooque7/" target="_blank"><img title="leetcode" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sharooque7/" height="30" width="40" padding="2px"/></a> Leetcode
+- <a href="https://stackoverflow.com/users/10872378/sharooque" target="_blank"><img title="stackoverflow" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/10872378/sharooque" height="30" width="40"  padding="4px" /></a> StackOverflow
+- <a href="https://www.linkedin.com/in/mohammed-sharooque-20305518b/" target="_blank"><img align="center" title="linkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-sharooque-20305518b/" height="30" width="40" /></a> LinkedIn
+- <a href="https://codepen.io/sharooque7" target="_blank"><img align="center" title="codepen" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/sharooque7" height="30" width="40" /></a> Codepen
+- <a href="https://twitter.com/mosharooque" target="_blank"><img align="center" title="twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mosharooque" height="30" width="40" /></a> Twitter
 
 <img align="right" alt="coding" max-width="400" max-height="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" class="jop-noMdConv">
 
@@ -37,18 +50,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharooque7" alt="sharooque7" /></a> </p>
 
-### About Me 🔭
-
-- I am currently working on a data pipeline project that integrates real-time streaming with Kafka KStream and Flink, as well as batch processing using PySpark. The project focuses on efficient stream processing and real-time data insights for Conditional Monitoring System(CMS). [Stream](https://github.com/sharooque7/StreamProcessing)
-- My roles and responsibilities include leading efforts designing innovative solutions. From brainstorming ideas to implementing actionable strategies, we take ownership of every stage, ensuring alignment with business goals and driving the successful implementation of data-driven initiatives.
-- 🌱 Improving my understanding and knowledge on **System Design and Patterns** with practicals.
-- 💬 Ask me about **Java, MERN, PostgreSql, Kafka, AWS, System Desing, DSA, Distributed Systems, IOT**
-
-### Blogs 📝
-
-- I regularly write articles on [Hashnode](https://sharooque.hashnode.dev/)
-- [Setup and Integrating DocumentDB with JAVA](https://sharooque.hashnode.dev/integrating-amazon-documentdb-with-java-spring-boot-and-amazon-lambda)
-- [Event Loop and Internals](https://sharooque.hashnode.dev/event-loop-in-node-js-and-its-internals)
+---
 
 ### Contact :iphone::point_down:
 
