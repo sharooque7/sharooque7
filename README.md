@@ -3,54 +3,219 @@
 ###### I am a versatile software engineer with expertise in Java, Python, Kafka, PostgreSQL, and MongoDB. Currently, I specialize in stream processing, designing real-time solutions to handle and analyze high-velocity data streams efficiently. My passion lies in solving complex problems and creating scalable, impactful systems that drive business success. With a proven ability to work across diverse technologies and deliver innovative results, I bring both adaptability and a strong technical foundation to the table.
 
 ---
+<html>
+  <body class="c35 doc-content">
+    <p class="c34">
+      <span class="c4 c15"><b>Software Engineer</b> </span
+      ><span class="c6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span
+      ><span
+        style="
+          overflow: hidden;
+          display: inline-block;
+          margin: 0px 0px;
+          border: 0px solid #000000;
+          transform: rotate(0rad) translateZ(0px);
+          -webkit-transform: rotate(0rad) translateZ(0px);
+          width: 9.6px;
+          height: 9.6px;
+        "
+        ><img
+          alt=""
+          src="images/image5.png"
+          style="
+            width: 9.6px;
+            height: 9.6px;
+            margin-left: 0px;
+            margin-top: 0px;
+            transform: rotate(0rad) translateZ(0px);
+            -webkit-transform: rotate(0rad) translateZ(0px);
+          "
+          title="" /></span
+      ><span class="c17 c4"
+        ><a
+          class="c14"
+          href="https://www.google.com/url?q=https://www.linkedin.com/in/sharooque11/&amp;sa=D&amp;source=editors&amp;ust=1740678159342821&amp;usg=AOvVaw3qNgTgAaqaZtlG6A80i1UX"
+          >LinkedIn</a
+        ></span
+      ><span class="c6">&nbsp;</span><span class="c6">&nbsp;| </span
+      ><span
+        style="
+          overflow: hidden;
+          display: inline-block;
+          margin: 0px 0px;
+          border: 0px solid #000000;
+          transform: rotate(0rad) translateZ(0px);
+          -webkit-transform: rotate(0rad) translateZ(0px);
+          width: 10.56px;
+          height: 10.56px;
+        "
+        ><img
+          alt=""
+          src="images/image4.png"
+          style="
+            width: 10.56px;
+            height: 10.56px;
+            margin-left: 0px;
+            margin-top: 0px;
+            transform: rotate(0rad) translateZ(0px);
+            -webkit-transform: rotate(0rad) translateZ(0px);
+          "
+          title="" /></span
+      ><span class="c4 c17"
+        ><a
+          class="c14"
+          href="https://www.google.com/url?q=https://github.com/sharooque7&amp;sa=D&amp;source=editors&amp;ust=1740678159342993&amp;usg=AOvVaw2IC-Az_4wyTdfzQsoy6urS"
+          >GitHub</a
+        ></span
+      ><span class="c6">&nbsp;</span><span class="c6">&nbsp;| </span
+      ><span
+        style="
+          overflow: hidden;
+          display: inline-block;
+          margin: 0px 0px;
+          border: 0px solid #000000;
+          transform: rotate(0rad) translateZ(0px);
+          -webkit-transform: rotate(0rad) translateZ(0px);
+          width: 9.6px;
+          height: 10.08px;
+        "
+        ><img
+          alt=""
+          src="images/image1.png"
+          style="
+            width: 9.6px;
+            height: 9.58px;
+            margin-left: 0px;
+            margin-top: 0.25px;
+            transform: rotate(0rad) translateZ(0px);
+            -webkit-transform: rotate(0rad) translateZ(0px);
+          "
+          title="" /></span
+      ><span class="c17 c4"
+        ><a
+          class="c14"
+          href="https://www.google.com/url?q=https://sharooque.hashnode.dev/&amp;sa=D&amp;source=editors&amp;ust=1740678159343140&amp;usg=AOvVaw04Nj0GUeSAztCk-KCt1549"
+          >Blogs</a
+        ></span
+      ><span class="c6">&nbsp;</span><span class="c6">&nbsp;| </span
+      ><span
+        style="
+          overflow: hidden;
+          display: inline-block;
+          margin: 0px 0px;
+          border: 0px solid #000000;
+          transform: rotate(0rad) translateZ(0px);
+          -webkit-transform: rotate(0rad) translateZ(0px);
+          width: 9.6px;
+          height: 9.6px;
+        "
+        ><img
+          alt=""
+          src="images/image3.png"
+          style="
+            width: 9.6px;
+            height: 9.6px;
+            margin-left: 0px;
+            margin-top: 0px;
+            transform: rotate(0rad) translateZ(0px);
+            -webkit-transform: rotate(0rad) translateZ(0px);
+          "
+          title="" /></span
+      ><span class="c17 c13 c26"
+        ><a
+          class="c14"
+          href="https://www.google.com/url?q=https://mosharooque.netlify.app/&amp;sa=D&amp;source=editors&amp;ust=1740678159343299&amp;usg=AOvVaw1A78YLAmrxLxF2qg9MsPQe"
+          >Website</a
+        ></span
+      >
+    </p>
+  <hr>
+    <p class="c5"><span class="c8 c6"></span></p>
+    <p class="c24"><span class="c8 c11"><b>Skills</b></span></p>
+    <p class="c5"><span class="c7 c6"></span></p>
+    <p class="c21">
+      <span class="c6 c29"
+        >Java | Python | Node | C# | JavaScript | TypeScript | PySpark |
+        PostgreSql | MongoDB | Mqtt | TDEngine | Redis | Kafka | KStreams| Sql |
+        NoSql | Git | Github &nbsp;| CI/CD | Terraform | Jenkins | React | Redux
+        | Unit Testing | OOPS | AWS | Lambda | DynamoDB | EC2 | Microservice |
+        Distributed System | GreenGrass | IOT Core | S3 | English | Tamil |
+        Malayalam - All professional proficiency or above.</span
+      ><span class="c12 c27">&nbsp;</span>
+    </p>
+    <hr>
+    <p class="c5 c33"><span class="c6 c7"></span></p>
+    <p class="c31"><span class="c8 c11"><b>Experience</b></span></p>
+    <p class="c5"><span class="c18 c11 c13 c23"></span></p>
+    <p class="c21">
+      <span class="c11 c13">Petrus Technologies</span
+      ><span class="c4">&nbsp;| Software Engineer</span
+      ><span class="c6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span
+      ><span class="c4 c9">Coimbatore, TamilNadu</span
+      ><span class="c4 c9">&nbsp;| </span
+      ><span class="c4 c18 c9">09.2023 - Current</span>
+    </p>
+    <p class="c5"><span class="c0"></span></p>
+    <ul class="c30 lst-kix_hrmxz9s5ys55-0 start">
+      <li class="c2 li-bullet-0">
+        <span class="c7 c6"
+          >Led the design and development of edge data pipeline, to transition
+          from batch processing to real-time stream processing, driving the
+          system to provide real-time insights into equipment performance using
+          Kafka, PySpark, KStream and AWS services GreenGrass, IoT Core,
+          DynamoDB. Reducing operational costs by 21.2%.</span
+        >
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c7 c6"
+          >Developed an event-driven batch processing system using AWS S3,
+          Lambda, and DynamoDB, enabling automatic execution upon file uploads.
+          This optimized edge processing by reducing CPU and memory usage by
+          67%, significantly improving performance.</span
+        >
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c3"
+          >Developed a Conditional Monitoring System for industrial IoT data
+          using real-time data to detect anomalies and predict equipment
+          failures, enhancing operational efficiency and reducing
+          downtime.</span
+        >
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c7 c6"
+          >Led the development of asset management modules, collaborating with
+          teams for integrations and ensuring efficient task distribution.
+          Managed system implementation, testing, and set up monitoring with
+          metrics, alarms, and dashboards.</span
+        >
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c6 c29"
+          >Designed and implemented scalable APIs and background workers for
+          bi-directional data synchronization between cloud and edge devices.
+          Used AWS SQS for reliable message processing and caching to improve
+          performance.</span
+        >
+      </li>
+      <li class="c2 li-bullet-0">
+        <span class="c28"
+          >Continuous Integration/Deployment Pipeline Integration, pull
+          requests, code reviews, load/stress testing, unit/integration.</span
+        >
+      </li>
+    </ul>
+  </body>
+</html>
 
-### About Me 🔭
-
-- I am currently working on a data pipeline project that integrates real-time streaming with Kafka KStream and Flink, as well as batch processing using PySpark. The project focuses on efficient stream processing and real-time data insights for Conditional Monitoring System(CMS). [Stream](https://github.com/sharooque7/StreamProcessing)
-- My roles and responsibilities include leading efforts designing innovative solutions. From brainstorming ideas to implementing actionable strategies, we take ownership of every stage, ensuring alignment with business goals and driving the successful implementation of data-driven initiatives.
-- 🌱 Improving my understanding and knowledge on **System Design and Patterns** with practicals.
-- 💬 Ask me about **Java, MERN, PostgreSql, Kafka, AWS, System Desing, DSA, Distributed Systems, IOT**
-
-### Blogs 📝
-
-- I regularly write articles on [Hashnode](https://sharooque.hashnode.dev/)
-- [Setup and Integrating DocumentDB with JAVA](https://sharooque.hashnode.dev/integrating-amazon-documentdb-with-java-spring-boot-and-amazon-lambda)
-- [Event Loop and Internals](https://sharooque.hashnode.dev/event-loop-in-node-js-and-its-internals)
-
-### Profles
-
-- <a href="https://sharooque.hashnode.dev" target="_blank"><img title="hashnode" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://sharooque.hashnode.dev¯" height="30" width="40" /></a> Hashnode
-
-- <a href="https://leetcode.com/sharooque7/" target="_blank"><img title="leetcode" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sharooque7/" height="30" width="40" padding="2px"/></a> Leetcode
-- <a href="https://stackoverflow.com/users/10872378/sharooque" target="_blank"><img title="stackoverflow" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/10872378/sharooque" height="30" width="40"  padding="4px" /></a> StackOverflow
-- <a href="https://www.linkedin.com/in/mohammed-sharooque-20305518b/" target="_blank"><img align="center" title="linkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-sharooque-20305518b/" height="30" width="40" /></a> LinkedIn
-- <a href="https://codepen.io/sharooque7" target="_blank"><img align="center" title="codepen" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/sharooque7" height="30" width="40" /></a> Codepen
-- <a href="https://twitter.com/mosharooque" target="_blank"><img align="center" title="twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mosharooque" height="30" width="40" /></a> Twitter
-
-<img align="right" alt="coding" max-width="400" max-height="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" class="jop-noMdConv">
-
-<hr/>
-
-<h3 align="left">Languages and Tools:</h3>
-
-[<img src="java.png" alt="aws" width="40" height="40" class="jop-noMdConv">](https://aws.amazon.com)[<img src="spring.png" alt="aws" width="40" height="40" class="jop-noMdConv">](https://aws.amazon.com)[<img src="kafka.png" alt="aws" width="40" height="40" class="jop-noMdConv">](https://aws.amazon.com)[<img src="pyspark.png" alt="aws" width="40" height="40" class="jop-noMdConv">](https://aws.amazon.com)[<img src="td.avif" alt="aws" width="40" height="40" class="jop-noMdConv">](https://aws.amazon.com)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" class="jop-noMdConv">](https://aws.amazon.com) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" class="jop-noMdConv">](https://getbootstrap.com)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" class="jop-noMdConv">](https://www.w3schools.com/cs/)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" class="jop-noMdConv">](https://www.w3schools.com/css/)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" class="jop-noMdConv">](https://www.docker.com/)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" class="jop-noMdConv">](https://dotnet.microsoft.com/)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" class="jop-noMdConv">](https://expressjs.com)[<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" class="jop-noMdConv">](https://firebase.google.com/)[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" class="jop-noMdConv">](https://git-scm.com/)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" class="jop-noMdConv">](https://www.w3.org/html/)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" class="jop-noMdConv">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" class="jop-noMdConv">](https://www.jenkins.io)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" class="jop-noMdConv">](https://www.linux.org/)[<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40" class="jop-noMdConv">](https://mochajs.org)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" class="jop-noMdConv">](https://www.mongodb.com/)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" class="jop-noMdConv">](https://www.mysql.com/)[<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" class="jop-noMdConv">](https://nextjs.org/)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" class="jop-noMdConv">](https://www.nginx.com)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" class="jop-noMdConv">](https://nodejs.org)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" class="jop-noMdConv">](https://www.postgresql.org)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" class="jop-noMdConv">](https://www.python.org)[<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" class="jop-noMdConv">](https://www.rabbitmq.com)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" class="jop-noMdConv">](https://reactjs.org/)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" class="jop-noMdConv">](https://redis.io)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" class="jop-noMdConv">](https://redux.js.org)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" class="jop-noMdConv">](https://sass-lang.com)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" class="jop-noMdConv">](https://www.typescriptlang.org/)[<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" class="jop-noMdConv">](https://webpack.js.org)
-
----
+<hr>
 
 ### Github Stats and languages:
 
 | [![sharooque's github stats](https://github-readme-stats.vercel.app/api?username=sharooque7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/sharooque7/github-readme-stats) | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharooque7&layout=compact&theme=buefy&hide_border=true)](https://github.com/sharooque7/github-readme-stats) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-### Streak and Contribution:
-
----
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharooque7&" alt="sharooque7" /></p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharooque7" alt="sharooque7" /></a> </p>
-
----
+<hr>
 
 ### Contact :iphone::point_down:
 
