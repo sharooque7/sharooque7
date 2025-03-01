@@ -127,6 +127,36 @@
           href="https://www.google.com/url?q=https://mosharooque.netlify.app/&amp;sa=D&amp;source=editors&amp;ust=1740678159343299&amp;usg=AOvVaw1A78YLAmrxLxF2qg9MsPQe"
           >Website</a
         ></span
+      ><span class="c6">&nbsp;</span><span class="c6">&nbsp;| </span
+      ><span
+        style="
+          overflow: hidden;
+          display: inline-block;
+          margin: 0px 0px;
+          border: 0px solid #000000;
+          transform: rotate(0rad) translateZ(0px);
+          -webkit-transform: rotate(0rad) translateZ(0px);
+          width: 9.6px;
+          height: 9.6px;
+        "
+        ><img
+          alt=""
+          src="images/image3.png"
+          style="
+            width: 9.6px;
+            height: 9.6px;
+            margin-left: 0px;
+            margin-top: 0px;
+            transform: rotate(0rad) translateZ(0px);
+            -webkit-transform: rotate(0rad) translateZ(0px);
+          "
+          title="" /></span
+      ><span class="c17 c13 c26"
+        ><a
+          class="c14"
+          href="https://leetcode.com/u/sharooque7/"
+          >Leetcode</a
+        ></span
       >
     </p>
   <hr>
